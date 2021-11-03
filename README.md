@@ -1,1 +1,1 @@
-# Instagram_Dummy_API_Appointy
+# Instagram_Dummy_API
